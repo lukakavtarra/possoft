@@ -1,0 +1,19 @@
+{
+    "header": {
+        "message":"Это мой текст сообщения"
+    },
+    "home": {
+        "body" : "это мой основной текст"
+
+    },
+    "navbar": {
+        "restaurant" : "Restaurant",
+        "functional" : "Functional",
+        "prices" : "Prices",
+        "services": "Services",
+        "aboutus": "About Us",
+        "upperside" : {
+            "button" : "Request Demo"
+        }
+    }
+}

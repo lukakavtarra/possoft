@@ -1,0 +1,20 @@
+.languageChangeButtons {
+    display: flex;
+    cursor: pointer;
+}
+
+.languageChangeButtons p {
+    padding-right: 0.3rem;
+    margin-left: 0.3rem;
+}
+
+.languageChangeDivider {
+    border-right: 1px solid;
+
+}
+
+.languageChangeButtons p:hover {
+    cursor: pointer;
+    color: gray;
+    border-color: black;
+}

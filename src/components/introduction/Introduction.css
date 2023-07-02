@@ -1,0 +1,21 @@
+.container {
+    position: relative;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.container img {
+    width: 88%;
+}
+
+.top-left {
+    position: absolute;
+    top:70px;
+    left: 12%;
+    margin: 1rem;
+    font-family: roboto-black;
+    font-size: 50px;
+    display: grid;
+    justify-items: start;
+    text-shadow: 1px 1px ;
+}
