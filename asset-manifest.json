@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ffee478.css",
-    "main.js": "/static/js/main.14817396.js",
+    "main.css": "/static/css/main.ac18eff7.css",
+    "main.js": "/static/js/main.6d496bf9.js",
     "static/js/787.d9da583d.chunk.js": "/static/js/787.d9da583d.chunk.js",
     "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.f25bd05915c1a3468d3d.ttf",
     "static/media/Main-picture.png": "/static/media/Main-picture.ec7ec2eeb2eab0d6e8c4.png",
@@ -10,14 +10,17 @@
     "static/media/NunitoSans_7pt_Condensed-Regular.ttf": "/static/media/NunitoSans_7pt_Condensed-Regular.1f11a66a1136b96b32ad.ttf",
     "static/media/Alata-Regular.ttf": "/static/media/Alata-Regular.a90e0970a7aca7d36f95.ttf",
     "static/media/bpg_mrgvlovani_caps_2010.ttf": "/static/media/bpg_mrgvlovani_caps_2010.e513097f7966a38f9d9f.ttf",
+    "static/media/POSpictureSVG.svg": "/static/media/POSpictureSVG.f48dfc57f159a4d6422d66726a3fe969.svg",
+    "static/media/Logo.svg": "/static/media/Logo.5996fb11d10a0e414daffa23b8a40bf5.svg",
+    "static/media/georgianMap.png": "/static/media/georgianMap.16be5e1b6ba1b5c044a7.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.1ffee478.css.map": "/static/css/main.1ffee478.css.map",
-    "main.14817396.js.map": "/static/js/main.14817396.js.map",
+    "main.ac18eff7.css.map": "/static/css/main.ac18eff7.css.map",
+    "main.6d496bf9.js.map": "/static/js/main.6d496bf9.js.map",
     "787.d9da583d.chunk.js.map": "/static/js/787.d9da583d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ffee478.css",
-    "static/js/main.14817396.js"
+    "static/css/main.ac18eff7.css",
+    "static/js/main.6d496bf9.js"
   ]
 }
