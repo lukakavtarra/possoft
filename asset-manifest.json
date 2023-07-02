@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/possoft/static/css/main.931e9c7d.css",
+    "main.js": "/possoft/static/js/main.46ba4435.js",
+    "static/js/787.d9da583d.chunk.js": "/possoft/static/js/787.d9da583d.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/possoft/static/media/Roboto-Regular.f25bd05915c1a3468d3d.ttf",
+    "static/media/Main-picture.png": "/possoft/static/media/Main-picture.ec7ec2eeb2eab0d6e8c4.png",
+    "static/media/Roboto-Black.ttf": "/possoft/static/media/Roboto-Black.8a9f3a95651d044db186.ttf",
+    "static/media/NunitoSans_7pt_Condensed-ExtraBold.ttf": "/possoft/static/media/NunitoSans_7pt_Condensed-ExtraBold.c81430c41dd3360d6980.ttf",
+    "static/media/NunitoSans_7pt_Condensed-Regular.ttf": "/possoft/static/media/NunitoSans_7pt_Condensed-Regular.1f11a66a1136b96b32ad.ttf",
+    "static/media/Alata-Regular.ttf": "/possoft/static/media/Alata-Regular.a90e0970a7aca7d36f95.ttf",
+    "static/media/bpg_mrgvlovani_caps_2010.ttf": "/possoft/static/media/bpg_mrgvlovani_caps_2010.e513097f7966a38f9d9f.ttf",
+    "static/media/logo.svg": "/possoft/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/possoft/index.html",
+    "main.931e9c7d.css.map": "/possoft/static/css/main.931e9c7d.css.map",
+    "main.46ba4435.js.map": "/possoft/static/js/main.46ba4435.js.map",
+    "787.d9da583d.chunk.js.map": "/possoft/static/js/787.d9da583d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.931e9c7d.css",
+    "static/js/main.46ba4435.js"
+  ]
+}
